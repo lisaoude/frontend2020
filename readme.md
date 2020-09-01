@@ -65,7 +65,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Ik ga voor het geheel responsive maken van de website.
 
-**Je opdracht:** [Ik ga de DigiD website namaken.](https://www.digid.nl/)
+**Je opdracht:** [Ik ga de DigiD website nabouwen.](https://www.digid.nl/)
 
 **Screenshot(s):**
 
@@ -74,4 +74,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![Breakdown 1](images/breakdown_mob_1.png)
+![Breakdown 2](images/breakdown_mob_2.png)
+![Breakdown 3](images/breakdown_mob_3.png)
