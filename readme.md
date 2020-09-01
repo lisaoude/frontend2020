@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Lisa Oude Elferink (500808354)
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -15,6 +15,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
+
 
 **Screenshot(s):**
 
@@ -35,18 +36,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 1 (week 3)
+-voortgang-
+
 
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
 
+
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
 
+
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
+
 
 ### Verslag van meeting
 
@@ -58,9 +64,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** -kies uit responsive óf surface plane-
+**Je focus:** Ik ga voor het geheel responsive maken van de website.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- [Ik ga de DigiD website namaken.](https://www.digid.nl/)
 
 **Screenshot(s):**
 
