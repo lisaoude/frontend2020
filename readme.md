@@ -59,7 +59,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -na afloop snel uitkomsten vastleggen-
 
 
-
 ## Intake (week 1)
 
 **Je startniveau:** Ik bevind me momenteel op de **rode piste**. Vorig jaar heb ik het vak niet gehaald, maar heb ik vervolgens wel gekozen voor front-end voor designers, wat me goed af is gegaan. Hierdoor heb ik nu veel meer kennis over code dan voorheen. 
@@ -70,7 +69,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![Pagina 1](images/digid_pag1)
+![Pagina 2](images/digid_pag2)
 
 **Breakdown-schets(en):**
 
