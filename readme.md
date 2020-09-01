@@ -62,11 +62,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Ik bevind me momenteel op de **rode piste**. Vorig jaar heb ik het vak niet gehaald, maar heb ik vervolgens wel gekozen voor front-end voor designers, wat me goed af is gegaan. Hierdoor heb ik nu veel meer kennis over code dan voorheen. 
 
 **Je focus:** Ik ga voor het geheel responsive maken van de website.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp- [Ik ga de DigiD website namaken.](https://www.digid.nl/)
+**Je opdracht:** [Ik ga de DigiD website namaken.](https://www.digid.nl/)
 
 **Screenshot(s):**
 
