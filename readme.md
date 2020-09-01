@@ -68,6 +68,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** [Ik ga de DigiD website nabouwen.](https://www.digid.nl/)
 
 **Screenshot(s):**
+![Pagina 1](images/digid_mob_pag1.png)
+![Pagina 2](images/digid_mob_pag2.png)
 
 ![Pagina 1](images/digid_pag1.png)
 ![Pagina 2](images/digid_pag2.png)
