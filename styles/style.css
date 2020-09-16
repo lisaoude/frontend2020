@@ -1,16 +1,58 @@
 /* CSS Document */
+
+/*********** ALGEMEEN ***********/
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-/* BODY */
 body {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* HEADER */
+h1 {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-size: 20px;
+    color: #F27000;
+}
+
+h3 {
+    font-size: 16px;
+    color: #000000;
+    text-decoration: underline;
+}
+
+h4 {
+    font-size: 20px;
+    color: #000000;
+}
+
+h5 {
+    font-size: 14px;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+}
+
+a {
+    font-size: 15px;
+    font-weight: 700;
+    color: #F27000;
+    text-decoration: none;
+}
+
+
+/*********** HEADER ***********/
 header {
     height: 4rem;
     width: 100vw;
@@ -23,27 +65,27 @@ header {
     z-index: 10;
 }
 
-/* HEADER DIGID LOGO */
+/* Header DigiD logo */
 header img:nth-of-type(1) {
     max-height: 3.1rem;
     width: auto;
 }
 
-/* HEADER RIJKSOVERHEID LOGO */
+/* Header Rijksoverheid logo */
 header img:nth-of-type(2) {
     max-height: 4rem;
     width: auto;
 }
 
-/* HAMBURGER MENU */
-/* CONTAINER */
+/* Header Hamburger Menu */
+/* Hamburger Container */
 header div:nth-of-type(1) {
     position: relative;
     height: 6rem;
     width: auto;
 }
 
-/* HAMBURGER RUIMTE */
+/* Hamburger ruimte */
 .hamburger {
     position: relative;
     width: 1rem;
@@ -52,7 +94,7 @@ header div:nth-of-type(1) {
     align-items: center;
 }
 
-/* HAMBURGER STREEPJE MIDDEN */
+/* Hamburger midden streep */
 span {
     display: block;
     background: #272727;
@@ -62,7 +104,7 @@ span {
     margin-left: 2rem;
 }
 
-/* HAMBURGER STREEPJE BOVEN EN ONDER */
+/* Hamburgeer boven en onder streep */
 span::before,
 span::after {
     content: '';
@@ -75,17 +117,17 @@ span::after {
     left: 2rem;
 }
 
-/* POSITIE STREEPJE BOVEN */
+/* Hamburger positie streep boven */
 span::before {
     top: 41px;
 }
 
-/* POSITIE STREEPJE ONDER */
+/* Hamburger positie streep onder */
 span::after {
     bottom: 41px;
 }
 
-/* HAMBURGER TRANSITIE */
+/* Hamburger transitie */
 .hamburger.active span {
     background: rgba(0, 0, 0, 0);
     transition: .5s;
@@ -105,17 +147,19 @@ nav.active {
     transform: translateX(0);
 }
 
-/* HEADER AFBEELDING VROUW */
+/* Header afbeelding */
 main div:nth-of-type(1) img {
     max-width: 100vw;
     max-height: 300rem;
     margin: auto;
 }
 
-/* MAIN */
+
+/*********** MAIN ALGMEEN ***********/
 main {
     position: absolute;
     max-width: 100vw;
+    height: auto;
     background-color: #F5F5F5;
     margin-top: 4rem;
 }
@@ -125,7 +169,8 @@ main section {
     margin: 0 auto;
 }
 
-/* EERSTE SECTION */
+
+/* Eerste Section - Oranje */
 main section:nth-of-type(1) {
     height: 9rem;
     width: auto;
@@ -148,17 +193,15 @@ main section:nth-of-type(1) div img {
 }
 
 main section:nth-of-type(1) div h1 {
-    font-size: 20px;
-    color: #FFFFFF;
     position: relative;
     top: 0.6rem;
     left: 0.9rem;
 }
 
-
 main section:nth-of-type(1) button {
-    width: 15.5rem;
-    height: 3rem;
+    margin-top: 0.8rem;
+    padding: 0rem 1rem 0rem 1rem;
+    width: auto;
     background-color: #FFFFFF;
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
@@ -169,41 +212,21 @@ main section:nth-of-type(1) button {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
 }
 
-main section:nth-of-type(1) button img {
-    width: 8px;
-    height: auto;
-    position: relative;
-    left: 0.6rem;
-    top: 0.1rem;
-}
-
-
 /***************************/
 
-
+/* Sections Twee en Drie - Witte achtergrond */
 main section {
-    height: 9rem;
+    height: auto;
     background-color: #ffffff;
-    padding: 1rem;
+    padding: 1.2rem;
     border-radius: 5px;
     margin-bottom: 1rem;
 }
 
-
-main section h2 {
-    font-size: 20px;
-    color: #F27000;
-}
-
-main section p {
-    font-size: 14px;
-    font-weight: 400;
-    color: #000000;
-}
-
 main section button {
-    margin-top: 1rem;
-    width: 10rem;
+    margin-top: 0.8rem;
+    padding: 0rem 1rem 0rem 1rem;
+    width: auto;
     height: 3rem;
     background-color: #F27000;
     font-family: 'Open Sans', sans-serif;
@@ -212,19 +235,189 @@ main section button {
     color: #FFFFFF;
     border: none;
     border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.20);
 }
 
 main section button img {
-    width: 8px;
+    width: 18px;
     height: auto;
     position: relative;
-    left: 0.6rem;
-    top: 0.1rem;
+    left: 0.25rem;
+    top: 0.25rem;
 }
 
 
-section a img {
-    width: 20px;
+/***************************/
+
+/* Section Drie */
+/* Eerste Div - h2 en p */
+main section:nth-of-type(4) div:nth-of-type(1) {
+    padding-top: 0rem;
+    display: inline-block;
+}
+
+/* Overige Divs - img, h3 en p */
+/* Image en tekst naast elkaar in row */
+main section:nth-of-type(4) div {
+    padding: 1rem 0rem 0.5rem 0rem;
     height: auto;
+    border-bottom: solid 1px #D3D3D3;
+    display: flex;
+}
+
+/* Tekst onder elkaar als column*/
+main section:nth-of-type(4) div div {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    padding-left: 1rem;
+}
+
+main section:nth-of-type(4) div img {
+    width: 35px;
+    height: auto;
+    align-self: flex-start;
+    margin-left: 1rem;
+}
+
+/* Afstand tussen p en de rest */
+main section:nth-of-type(4) div p {
+    padding: 0.5rem 0rem;
+}
+
+
+/***************************/
+/* Vijfde section - grijze achtergrond*/
+main section:nth-of-type(5) {
+    height: auto;
+    background-color: #F5F5F5;
+}
+
+/* Afstand tussen de divs en lijntje ertussen */
+main section:nth-of-type(5) div {
+    height: auto;
+    padding: 1rem 0rem 1rem 0rem;
+    border-bottom: solid 1px #D3D3D3;
+}
+
+main section:nth-of-type(5) div a {
+    display: flex;
+    align-content: center;
+}
+
+main section:nth-of-type(5) div a p {
+    padding-left: 1rem;
+}
+
+/* Pijltjes ervoor */
+main section:nth-of-type(5) div a img {
+    width: 15px;
+    height: auto;
+}
+
+/***************************/
+/* Zesde section - Afbeelding */
+main section:nth-of-type(6) {
+    height: auto;
+    width: 100%;
+    padding: 0;
+    background-color: #F5F5F5;
+    margin-top: -2rem;
+    margin-bottom: 1rem;
+}
+
+/* DigiD logo */
+main section:nth-of-type(6) img:nth-of-type(1) {
+    height: 17.5vw;
+    width: auto;
+    position: relative;
+    top: 5.75rem;
+    left: 1rem;
+}
+
+/* De afbeelding zelf */
+main section:nth-of-type(6) img:nth-of-type(2) {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/* Vakje over de afbeelding*/
+main section:nth-of-type(6) div:nth-of-type(1) {
+    background-color: rgba(255, 255, 255, 0.52);
+    padding: 0.5rem;
+    border-radius: 5px;
+    width: 55%;
+    height: auto;
+    position: relative;
+    top: -9rem;
+    left: 1rem;
+}
+
+/* Zwarte tekst in vakje */
+main section:nth-of-type(6) h4 {
+    line-height: 22px;
+    padding-bottom: 0.5rem;
+}
+
+/* Container nep buttons */
+main section:nth-of-type(6) div:nth-of-type(2) {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    top: -11.5rem;
+}
+
+/* Afbeelding nep buttons */
+main section:nth-of-type(6) div:nth-of-type(2) img {
+    max-width: 85%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/***************************/
+/* Footer */
+footer {
+    width: 100vw;
+    height: 20rem;
+    position: relative;
+    top: 145rem;
+    background-color: #282828;
+}
+
+/* Blokje boven footer */
+footer img {
+    width: 40px;
+    height: 25px;
+    position: relative;
+    top: -25px;
+    left: 46%;
+}
+
+/* Linkjes in footer */
+footer a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+    line-height: 1.7rem;
+}
+
+/* Positie divs */
+/* Blokjes naast elkaar in row*/
+footer div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* Positieve tekst in blokjes */
+/* Tekst onder elkaar in column */
+footer div div {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: auto;
+    padding: 2rem 0rem 0rem 2rem;
 }

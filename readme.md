@@ -36,26 +36,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 1 (week 3)
--voortgang-
+Hier de screenshot van waar ik tot nu toe ben gekomen! Ik heb de eerste pagina voor mobiel zo goed als af. Hier en daar nog een dingetje fixen voor kleiner/groter scherm, maar verder af.
+![Voortgang week 3](images/voortgang_week3.png)
 
 
 ### Stand van zaken
+**Dit ging goed:** Heel veel! Ik kon mezelf goed aan het werk zetten en wist eigenlijk heel goed wat ik aan het doen was.
 
--dit ging goed & dit was lastig-
+**Dit was lastig:** Mijn footer kwam bovenaan te pagina, dus die heeft nu een top van 145 hahaha.
 
-
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent-
 
 
 ### Agenda voor meeting
-
--samen met je groepje opstellen-
+Bekijken website, doorlopen code. 
+Vragen waarom de header bovenaan kwam, hoe te fixen. 
+Verder geen vragen.
 
 
 ### Verslag van meeting
-
 -na afloop snel uitkomsten vastleggen-
 
 
