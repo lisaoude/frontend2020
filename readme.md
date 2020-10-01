@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. A guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 2. -bron 2-
 3. -...-
 
