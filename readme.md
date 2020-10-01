@@ -73,7 +73,7 @@ Verder geen vragen.
 
 
 ### Verslag van meeting
-Ik ben goed op weg. Mijn code ziet er netjes uit en ik heb geen bijzondere op- of aanmerkingen. Wel heb ik antwoord op mijn vraag over de footer, en ik dit probleem opgelost!
+Ik ben goed op weg. Mijn code ziet er netjes uit en ik heb geen bijzondere op- of aanmerkingen gehad. Wel heb ik antwoord op mijn vraag over de footer, en is dit probleem opgelost!
 
 
 ## Intake (week 1)
