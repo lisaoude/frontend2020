@@ -30,8 +30,28 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 2 (week 5)
+Ik ben voornamelijk bezig geweest met het werken aan de responsiviteit van mijn eerste pagina. Ik heb nu alles netjes geschaalt tot 1000px vw, vanaf daar wordt het lastiger omdat er dan het een ander ander verandert qua indeling.
 
--same as voortgang 1-
+Ik heb de HTML van mijn tweede pagina er volledig in staan, maar vind het lastig hoe ik deze gemakkelijk kan gaan stylen zonder de gehele styling van de eerste pagina over te nemen. Ik denk zelf aan het geven van een class aan de main van de tweede pagina, maar weet niet of dit een goede oplossing is of een gevalletje ductape erop :').
+
+
+### Stand van zaken
+**Dit ging goed:** Experimenteren ging goed! Ik heb veel geprobeerd en ben daardoor verder gekomen.
+
+**Dit was lastig:** Ik heb het momenteel ook heel druk met mijn andere vakken, waardoor ik front-end een kleeiiin beetje links heb laten liggen.
+
+
+
+### Agenda voor meeting
+Bekijken website, doorlopen code. 
+Vragen hoe ik de eerste 3 sections naast elkaar krijg vanaf 1000px vw.
+Vragen hoe het beste de tweede pagina te stylen.
+Verder geen vragen.
+
+
+
+### Verslag van meeting
+Ik ben goed op weg. Mijn code ziet er netjes uit en ik heb geen bijzondere op- of aanmerkingen. Wel heb ik antwoord op mijn vraag over de footer, en ik dit probleem opgelost!
 
 
 
@@ -49,12 +69,12 @@ Hier de screenshot van waar ik tot nu toe ben gekomen! Ik heb de eerste pagina v
 
 ### Agenda voor meeting
 Bekijken website, doorlopen code. 
-Vragen waarom de header bovenaan kwam, hoe te fixen. 
+Vragen waarom de footer bovenaan kwam, hoe te fixen. 
 Verder geen vragen.
 
 
 ### Verslag van meeting
--na afloop snel uitkomsten vastleggen-
+Ik ben goed op weg. Mijn code ziet er netjes uit en ik heb geen bijzondere op- of aanmerkingen. Wel heb ik antwoord op mijn vraag over de footer, en ik dit probleem opgelost!
 
 
 ## Intake (week 1)
