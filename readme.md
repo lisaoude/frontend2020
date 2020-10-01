@@ -51,8 +51,7 @@ Verder geen vragen.
 
 
 ### Verslag van meeting
-Ik ben goed op weg. Mijn code ziet er netjes uit en ik heb geen bijzondere op- of aanmerkingen. Wel heb ik antwoord op mijn vraag over de footer, en ik dit probleem opgelost!
-
+---
 
 
 ## Voortgang 1 (week 3)
