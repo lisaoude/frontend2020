@@ -52,7 +52,7 @@ Verder geen vragen.
 
 
 ### Verslag van meeting
----
+Ik ben goed bezig. Monika (vervanging) kon mijn vragen niet beantwoorden dus ik ga zelf Google verder afstruinen en eventueel Jo-Ann en Romy raadplegen.
 
 
 ## Voortgang 1 (week 3)
