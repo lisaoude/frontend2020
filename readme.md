@@ -37,7 +37,7 @@ Ik was tot aan deze voortgang verder gegaan met het zorgen voor een mooie scalin
 
 
 ### Agenda voor meeting
-Code snel doorlopen en feedback opschrijven. Zelf gene vragen.
+Code snel doorlopen en feedback opschrijven. Zelf geen vragen.
 
 
 
