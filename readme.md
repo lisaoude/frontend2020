@@ -17,28 +17,28 @@
 
 **Screenshot(s):** 
 ### Mobiel pagina 1
-(images/final_mob_pag1.png)
+![mobiel 1](images/final_mob_pag1.png)
 
 ### Mobiel pagina 2
-(images/final_mob_pag2.png)
+![mobiel 2](images/final_mob_pag2.png)
 
 ### iPad formaat pagina 1
-(images/final_ipad_pag1.png)
+![ipad 1](images/final_ipad_pag1.png)
 
 ### iPad formaat pagina 2
-(images/final_ipad_pag2.png)
+![ipad 2](images/final_ipad_pag2.png)
 
 ### Groot scherm pagina 1
-(images/final_groot_pag1.png)
+![groot 1](images/final_groot_pag1.png)
 
 ### Groot scherm pagina 2
-(images/final_groot_pag2.png)
+![groot 2](images/final_groot_pag2.png)
 
 ### Groter scherm pagina 1
-(images/final_groter_pag1.png)
+![groter 1](images/final_groter_pag1.png)
 
 ### Groter scherm pagina 2
-(images/final_groter_pag2.png)
+![groter 2](images/final_groter_pag2.png)
 
 
 
