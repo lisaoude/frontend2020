@@ -303,6 +303,10 @@ nav ul li a img {
     appearance: none;
 }
 
+.first div section:nth-of-type(1) button:hover {
+    background-color: #F5F5F5;
+}
+
 /* EERSTE SECTION BUTTON PIJLTJE */
 .first div section:nth-of-type(1) button img {
     width: 18px;
@@ -353,6 +357,12 @@ nav ul li a img {
     cursor: pointer;
     outline: none;
     appearance: none;
+}
+
+
+.first div section:nth-of-type(2) button:hover,
+.first div section:nth-of-type(3) button:hover {
+    background-color: #BF6000;
 }
 
 /* TWEEDE EN DERDE SECTION BUTTONS PIJLTJES */
@@ -413,6 +423,10 @@ nav ul li a img {
     width: auto;
 }
 
+.first > section:nth-of-type(1) a:hover {
+    color: #BF6000;
+}
+
 /* VIERDE SECTION AFSTAND TUSSEN P EN OVERIGE ITEMS */
 .first > section:nth-of-type(1) div p {
     padding: 0.5rem 0rem;
@@ -447,6 +461,11 @@ nav ul li a img {
 .first > section:nth-of-type(2) div a p {
     padding-left: 1rem;
 }
+
+.first > section:nth-of-type(2) div p:hover {
+    font-weight: 600;
+}
+
 
 /* VIJFDE SECTION PIJLTJES */
 .first > section:nth-of-type(2) div a img {
@@ -865,7 +884,7 @@ footer div div {
 
     /* TWEEDE SECTION BUTTON*/
     .first div section:nth-of-type(2) button {
-        top: 3.3rem;
+        top: 1.9rem;
     }
 
 
@@ -896,7 +915,21 @@ footer div div {
     .first div section:nth-of-type(1) div h1 {
         width: 18rem;
     }
+
+
+    /******************************/
+    /*    TWEEDE SECTION - WIT    */
+    /******************************/
+
+    /* TWEEDE SECTION BUTTON*/
+    .first div section:nth-of-type(2) button {
+        top: 3.3rem;
+    }
+
 }
+
+
+
 
 
 
@@ -1037,6 +1070,11 @@ footer div div {
     appearance: none;
 }
 
+.second section:nth-of-type(2) button:hover,
+.second section:nth-of-type(4) button:hover {
+    background-color: #BF6000;
+}
+
 /* TWEEDE EN VIERDE SECTION BUTTON TEKST */
 .second section:nth-of-type(2) button a,
 .second section:nth-of-type(4) button a {
@@ -1137,6 +1175,11 @@ footer div div {
     appearance: none;
 }
 
+.second section:nth-of-type(3) > button:hover {
+    background-color: #DDDDDD;
+}
+
+
 /* DROPDOWN PIJLTJE */
 .second section:nth-of-type(3) button img {
     float: right;
@@ -1203,6 +1246,11 @@ footer div div {
     cursor: pointer;
     outline: none;
     appearance: none;
+}
+
+
+.second section:nth-of-type(3) div button:hover {
+    background-color: #BF6000;
 }
 
 /* DROPDOWN UITKLAP BUTTON PIJLTJE */
@@ -1276,6 +1324,10 @@ footer div div {
     cursor: pointer;
     outline: none;
     appearance: none;
+}
+
+.second section:nth-of-type(5) > button:hover {
+    background-color: #DDDDDD;
 }
 
 /* DROPDOWN PIJLTJE */
@@ -1374,6 +1426,18 @@ footer div div {
 .second section:nth-of-type(5) button:nth-of-type(3) img.turn {
     transform: rotate(270deg);
     transition: 0.5s;
+}
+
+/* LIJNTJE BIJ TEKST */
+.second section:nth-of-type(5) div:nth-of-type(2) span {
+    position: relative;
+    left: -2rem;
+    top: 40px;
+    display: block;
+    background: #E27000;
+    height: 40px;
+    width: 2.5px;
+    border-radius: 5px;
 }
 
 
@@ -1546,5 +1610,45 @@ footer div div {
     /* DROPDOWN BUTTON */
     .second section:nth-of-type(5) > button {
         width: 60vw;
+    }
+}
+
+
+/************************************/
+/*           GROOTSTE FORMAAT          */
+/************************************/
+@media screen and (min-width: 1240px) and (max-width: 3000px) {
+
+    /******************************/
+    /*   SECTION TWEE VIER ZES    */
+    /******************************/
+
+    /* TWEEDE SECTION TWEEDE STUK TEKST */
+    .second section:nth-of-type(4) p:nth-of-type(2) {
+        top: 0;
+    }
+
+
+    /* TWEEDE SECTION LIJN */
+    .second section:nth-of-type(4) span {
+        top: 21px;
+        height: 20px;
+    }
+
+
+    /******************************/
+    /*         DROPDOWN 4         */
+    /******************************/
+
+    /* DROPDOWN TWEEDE STUK TEKST */
+    .second section:nth-of-type(5) p:nth-of-type(2) {
+        top: 0;
+    }
+
+
+    /* DROPDOWN LIJN */
+    .second section:nth-of-type(5) span {
+        top: 21px;
+        height: 20px;
     }
 }

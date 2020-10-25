@@ -1,9 +1,6 @@
 # Procesverslag
 **Auteur:** Lisa Oude Elferink (500808354)
 
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-
 
 ## Bronnenlijst
 1. [A Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
@@ -13,12 +10,35 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 ### Stand van zaken
-**Dit ging goed:** Vul ik later in!
+**Dit ging goed:** Het schalen van de pagina van klein naar grotere schermen ging heel goed! Ik hoefde maar een aantal dingen aan te passen bij de grotere schermen, de rest ging haast vanzelf!
 
-**Dit was lastig:** Vul ik later in!
+**Dit was lastig:** Het was even lastig om mijn hamburger menu in elkaar te zetten en vervolgens weer 'normaal' te krijgen voor een groot scherm. Ik had dit expres als voor het laatste bewaard zodat ik verder gewoon lekker verder kon gaan. Toen ik het eenmaal door had ging het eigenlijk heel goed!
 
 
-**Screenshot(s):** Screenshots volgen zsm!
+**Screenshot(s):** 
+### Mobiel pagina 1
+(images/final_mob_pag1.png)
+
+### Mobiel pagina 2
+(images/final_mob_pag2.png)
+
+### iPad formaat pagina 1
+(images/final_ipad_pag1.png)
+
+### iPad formaat pagina 2
+(images/final_ipad_pag2.png)
+
+### Groot scherm pagina 1
+(images/final_groot_pag1.png)
+
+### Groot scherm pagina 2
+(images/final_groot_pag2.png)
+
+### Groter scherm pagina 1
+(images/final_groter_pag1.png)
+
+### Groter scherm pagina 2
+(images/final_groter_pag2.png)
 
 
 
