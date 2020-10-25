@@ -7,30 +7,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>DigiD | DigiD aanvragen of activeren</title>
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link href="styles/style.css" rel="stylesheet">
 </head>
 
 <body>
     <header>
+        <!-- LOGO DIGID -->
         <img src="images/DigiD_logo.svg" alt="DigiD logo">
+
+        <!-- LOGO RIJKSOVERHEID-->
         <img src="images/rijksoverheid_logo.png" alt="Rijksoverheid logo">
 
+        <!-- HAMBURGER MENU -->
         <div class="hamburger">
-            <span class="link"></span>
+            <span></span>
         </div>
+
+        <!-- NAVIGATIE -->
+        <nav class="navigation">
+            <ul>
+                <li><a href="#"><img src="images/pijl_oranje.svg" alt="pijltje">Home</a></li>
+                <li><a href="#"><img src="images/pijl_oranje.svg" alt="pijltje">Manieren van inloggen</a></li>
+                <li><a href="#"><img src="images/pijl_oranje.svg" alt="pijltje">Voorkom misbruik</a></li>
+                <li><a href="#"><img src="images/pijl_oranje.svg" alt="pijltje">Hulp &amp; Contact </a></li>
+            </ul>
+        </nav>
     </header>
 
     <main class="second">
+
+        <!-- HOME KNOP -->
         <div>
             <a href="index.html"><img src="images/pijl_zwart.svg" alt="pijltje"> Home </a>
         </div>
 
+        <!-- SECTION 1 -->
         <section>
             <h6> DigiD aanvragen of activeren </h6>
-            <h7> Met uw DigiD laat u zien wie u bent als u op internet iets regelt. Of dat nou bij de overheid is, het onderwijs, de zorg of voor uw pensioen. </h7>
+            <p> Met uw DigiD laat u zien wie u bent als u op internet iets regelt. Of dat nou bij de overheid is, het onderwijs, de zorg of voor uw pensioen. </p>
         </section>
 
+        <!-- SECTION 2 -->
         <section>
             <h2> DigiD aanvragen </h2>
             <p> Heeft u nog geen DigiD en wilt u een account aanvragen? Gebruik dan het aanvraagformulier. Voor uw aanvraag heeft u uw burgerservicenummer (BSN) nodig. </p>
@@ -42,13 +60,39 @@
             <p> Let op, uw DigiD is privé. Net als uw paspoort of rijbewijs. Geef uw gebruikersnaam, wachtwoord of pincode daarom nooit aan een ander. </p>
         </section>
 
-        <section>
-            <div>
-                <p> Hoe vraag ik DigiD aan? </p>
-                <p> Ik woon in het buitenland </p>
+        <!-- SECTION 3 // DROPDOWN 1 EN 2 -->
+        <section id="sectiontwo">
+            <button class="dropdown">Hoe vraag ik DigiD aan? <img src="images/pijl_oranje.svg" alt="pijltje" id="arrow"> </button>
+            <div id="dropdown_content">
+                <p> Ga naar <a href="#">digid.nl/aanvragen</a>, vul uw gegevens in en rond uw aanvraag af.</p>
+
+                <ul>
+                    <li> <img src="images/rondje_oranje.svg" alt="oranje rondje"> U heeft uw burgerservicenummer nodig bij de aanvraag. </li>
+
+                    <li> <img src="images/rondje_oranje.svg" alt="oranje rondje"> Binnen 3 werkdagen ontvangt u een brief thuis met een activeringscode. </li>
+
+                    <li> <img src="images/rondje_oranje.svg" alt="oranje rondje"> Voeg uw telefoonnummer en e-mailadres toe tijdens de aanvraag. U kunt dan meer met uw DigiD, zoals wachtwoord herstellen of de DigiD app eenvoudig activeren. </li>
+
+                    <li> <img src="images/rondje_oranje.svg" alt="oranje rondje"> Onthoud uw gebruikersnaam en wachtwoord goed, die heeft u nodig om uw DigiD te activeren. </li>
+                </ul>
+
+                <h2> Stappenplan </h2>
+                <p> Komt u er niet uit? Bekijk dan stap voor stap wat u moet doen.</p>
+
+                <a href='#' target='_blank'><button type='button'> Stappenplan DigiD aanvragen <img src="images/pijl_wit.svg" alt="pijltje"> </button></a>
+            </div>
+
+
+
+            <button class="dropdown2"> Ik woon in het buitenland <img src="images/pijl_oranje.svg" alt="pijltje" id="arrow2"> </button>
+            <div id="dropdown_content2">
+                <p> Woont u in het buitenland? En heeft u de Nederlandse nationaliteit of de nationaliteit van een ander land in de Europese Economische Ruimte (EER)? Dan kunt u een DigiD aanvragen. Had u al een DigiD voordat u verhuisde naar het buitenland? Dan kunt u die gewoon blijven gebruiken. </p>
+
+                <a href='#' target='_blank'><button type='button'> DigiD aanvraag buitenland <img src="images/pijl_wit.svg" alt="pijltje"> </button></a>
             </div>
         </section>
 
+        <!-- SECTION 4 -->
         <section>
             <h2> Digi activeren </h2>
             <p> Heeft u een DigiD aangevraagd? Binnen 3 werkdagen ontvangt u een brief met een activeringscode. Activeer uw DigiD met uw gebruikersnaam, wachtwoord en deze code. Na het activeren kunt u inloggen. </p>
@@ -59,15 +103,42 @@
             <a href='#' target='_blank'><button type='button'> Aanvraagformulier DigiD <img src="images/pijl_wit.svg" alt="pijltje"> </button></a>
         </section>
 
+
+
+        <!-- SECTION 5 // DROPDOWN 3 EN 4 -->
         <section>
-            <div>
-                <p> Hoe activeer ik DigiD? </p>
-                <p> Activeren DigiD lukt niet </p>
-                <p> Activeringscode niet ontvangen </p>
-                <p> Waarom komt de activeringscode per post? </p>
+            <button class="dropdown3"> Hoe activeer ik DigiD? <img src="images/pijl_oranje.svg" alt="pijltje" id="arrow3"> </button>
+            <div id="dropdown_content3">
+                <p> Heeft u een DigiD aangevraagd? Dan ontvangt u binnen 3 werkdagen een brief met een activatiecode. </p>
+
+                <ol>
+                    <li> 1. Ga naar digid.nl/activeren. </li>
+
+                    <li> 2. Vul uw wachtwoord en gebruikersnaam in. </li>
+
+                    <li> 3. Als u sms-controle heeft ingeschakeld, ontvangt u een sms-bericht: voer de sms-code in. </li>
+
+                    <li> 4. Voer uw activeringscode in. </li>
+                </ol>
+
+                <span></span>
+
+                <p> Let op, activeer uw DigiD binnen 20 dagen, anders moet u opnieuw een DigiD aanvragen. </p>
+
+                <p> Tip: u kunt de activatie van uw DigiD account ook afmaken in de DigiD app. Zowel het account als de app zijn hierna geactiveerd. </p>
+
+            </div>
+
+
+            <button class="dropdown4"> Waarom komt de code per post? <img src="images/pijl_oranje.svg" alt="pijltje" id="arrow4"> </button>
+            <div id="dropdown_content4">
+                <p> DigiD stuurt de brief met de activeringscode automatisch naar het adres waarop u geregistreerd staat in de Basisregistratie Personen (BRP). Dit is meteen een controle of u echt de persoon bent die uw DigiD heeft aangevraagd. </p>
+
+                <p> Het sturen van de brief is een belangrijk onderdeel van de betrouwbaarheid van DigiD. </p>
             </div>
         </section>
 
+        <!-- SECTION 6-->
         <section>
             <h2> Code ontvangen </h2>
             <p> Heeft u een andere code ontvangen? Bijvoorbeeld om uw wachtwoord te herstellen? Lees op de <a href="#">pagina Code ontvangen</a> wat u moet doen.</p>
@@ -75,6 +146,7 @@
 
     </main>
 
+    <!-- FOOTER -->
     <footer>
         <img src="images/footer_img.png" alt="Vak in de blauwe kleur van de Rijksoverheid">
         <div>

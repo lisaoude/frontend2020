@@ -7,26 +7,42 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. [A Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
-2. -bron2-
-3. -bron3-
-
+2. [DigiD website](https://www.digid.nl/).
 
 
 
 ## Eindgesprek (week 7/8)
+### Stand van zaken
+**Dit ging goed:** Vul ik later in!
 
--dit ging goed & dit was lastig-
+**Dit was lastig:** Vul ik later in!
 
 
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
+**Screenshot(s):** Screenshots volgen zsm!
 
 
 
 ## Voortgang 3 (week 6)
+Deze week heeft mijn voortgangsgesprek maar heel kort geduurd, aangezien ik zo snel mogelijk mijn bed in wilde duiken vanwege mijn Corona verschijnselen. En ja hoor, de test liet me een paar dagen later weten dat het inderdaad Corona was. Ontzettend leuk, ook weer meegemaakt.
 
--same as voortgang 1-
+Ik was tot aan deze voortgang verder gegaan met het zorgen voor een mooie scaling op mijn eerste pagina en was begonnen aan de CSS voor mijn tweede pagina.
+
+
+
+### Stand van zaken
+**Dit ging goed:** Veel! Alles lukte me goed, en dat wat niet lukte heb ik gevraagd en op die manier goed kunnen oplossen.
+
+**Dit was lastig:** Ik heb het momenteel ook heel druk met mijn andere vakken, waardoor ik front-end wederom weer klein beetje links heb laten liggen. Ook de Corona hielp niet echt :').
+
+
+
+### Agenda voor meeting
+Code snel doorlopen en feedback opschrijven. Zelf gene vragen.
+
+
+
+### Verslag van meeting
+Het gaat goed! Lekker zo doorgaan.
 
 
 
