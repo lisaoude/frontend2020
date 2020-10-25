@@ -299,6 +299,8 @@ nav ul li a img {
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
     cursor: pointer;
+    outline: none;
+    appearance: none;
 }
 
 /* EERSTE SECTION BUTTON PIJLTJE */
@@ -349,6 +351,8 @@ nav ul li a img {
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.20);
     cursor: pointer;
+    outline: none;
+    appearance: none;
 }
 
 /* TWEEDE EN DERDE SECTION BUTTONS PIJLTJES */
@@ -580,36 +584,71 @@ footer div div {
 
 @media screen and (min-width: 1000px) and (max-width: 3000px) {
 
+    /* MAIN ALGEMEEN*/
+    .first {
+        margin-top: 8rem;
+    }
+
     /******************************/
     /*          NAVIGATIE         */
     /******************************/
+    /* HEADER RUIMTE */
+    header {
+        height: 8rem;
+    }
+
+    /* HEADER DIGID LOGO */
+    header img:nth-of-type(1) {
+        position: relative;
+        top: -2rem;
+    }
+
+    /* HEADER RIJKSOVERHEID LOGO */
+    header img:nth-of-type(2) {
+        position: relative;
+        top: -2rem;
+    }
+
+
+    /* HAMBURGER CONTAINER */
+    header div:nth-of-type(1) {
+        opacity: 0;
+    }
 
     /* NAVIGATIE RUIMTE */
     nav {
         position: absolute;
+        transform: translateY(100%);
         width: 100%;
-        display: flex;
+        height: 2rem;
+        margin: 0 auto;
     }
 
-    /* NAVIGATIE ASDFGHJKL */
     header nav ul {
-        position: absolute;
+        position: relative;
+        top: -6rem;
+        width: 100%;
         list-style: none;
         display: flex;
         flex-direction: row;
-        width: 100%;
-        top: -4.2rem;
-        left: 25rem;
+        justify-content: space-around;
     }
 
-    /* NAVIGATIE ASDFGHJKL */
+
     header nav ul a {
         display: block;
-        color: #000;
-        font-family: 'IBM Plex Sans', sans-serif;
+        color: #000000;
         font-weight: 500;
         font-size: 1em;
         text-decoration: none;
+        position: relative;
+        top: 6rem;
+        left: 0;
+    }
+
+    /* PIJLTJES VOOR LIST ITEMS*/
+    nav ul li a img {
+        display: none;
     }
 
 
@@ -861,6 +900,13 @@ footer div div {
 
 
 
+
+
+
+
+
+
+
 /******************************************/
 /*             TWEEDE PAGINA              */
 /******************************************/
@@ -987,6 +1033,8 @@ footer div div {
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.20);
     cursor: pointer;
+    outline: none;
+    appearance: none;
 }
 
 /* TWEEDE EN VIERDE SECTION BUTTON TEKST */
@@ -1085,19 +1133,9 @@ footer div div {
     border: 0;
     outline: 0;
     cursor: pointer;
+    outline: none;
+    appearance: none;
 }
-
-/* DROPDOWN PIJLTJE */
-/*
-.second section:nth-of-type(3) button img {
-    position: relative;
-    top: 3px;
-    left: 140px;
-    width: 20px;
-    height: auto;
-    transform: rotate(90deg);
-}
-*/
 
 /* DROPDOWN PIJLTJE */
 .second section:nth-of-type(3) button img {
@@ -1163,6 +1201,8 @@ footer div div {
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.20);
     cursor: pointer;
+    outline: none;
+    appearance: none;
 }
 
 /* DROPDOWN UITKLAP BUTTON PIJLTJE */
@@ -1234,6 +1274,8 @@ footer div div {
     border: 0;
     outline: 0;
     cursor: pointer;
+    outline: none;
+    appearance: none;
 }
 
 /* DROPDOWN PIJLTJE */
@@ -1474,51 +1516,6 @@ footer div div {
         max-width: 60vw;
         margin-top: 4rem;
     }
-
-
-    /******************************/
-    /*       HAMBURGER MENU       */
-    /******************************/
-
-    /* HAMBURGER CONTAINER */
-    header div:nth-of-type(1) {
-        opacity: 0;
-    }
-
-
-    /******************************/
-    /*          NAVIGATIE         */
-    /******************************/
-
-    /* NAVIGATIE RUIMTE */
-    nav {
-        transform: translateY(100%);
-        width: 100%;
-        height: 4rem;
-        left: -3rem;
-    }
-
-
-    nav ul {
-        display: flex;
-        justify-content: space-around;
-    }
-
-
-    /* TEKST LIST ITEMS */
-    nav ul li a {
-        position: relative;
-        top: 5.5rem;
-        left: -22rem;
-
-    }
-
-
-    /* PIJLTJES VOOR LIST ITEMS*/
-    nav ul li a img {
-        display: none;
-    }
-
 
     /******************************/
     /*       HOME BUTTON        */

@@ -42,7 +42,7 @@ Code snel doorlopen en feedback opschrijven. Zelf geen vragen.
 
 
 ### Verslag van meeting
-Het gaat goed! Lekker zo doorgaan.
+Het gaat goed! Lekker zo doorgaan. Ik hoef nu eigenlijk alleen nog de tweede pagina te stylen, en hier moet ik vooral niet te veel tijd in gaan steken. Verder kan ik nog kijken of het leuk is om iets te doen met de focus states van buttons en eens te kijken naar CSS specificity. Als laatste hoef ik eigenlijk alleen maar het beoordelingsformulier ernaast te leggen en te kijken of alles er daadwerkelijk in zit. 
 
 
 
